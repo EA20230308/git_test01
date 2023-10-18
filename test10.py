@@ -16,5 +16,13 @@ while dx <= 200:
     line(sx,sy,dx,dy)
     sy = sy - 10
     dx = dx + 10
+
+    line(sx,sy,dx,dy)
+    sy = sy - 10
+    dx = dx + 10
+
+    line(sx,sy,dx,dy)
+    sy = sy - 10
+    dx = dx + 10
 done()
 
